@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: "Dice Roller App",
       description: "A Dice game.",
-      tags: ["React", "Node.js", "PostgreSQL", "Stripe"],
+      tags: ["React", "css", "html", "Stripe"],
       links: {
         demo: "https://kk96283929-max.github.io/dice/",
         github: "https://github.com/kk96283929-max/dice",

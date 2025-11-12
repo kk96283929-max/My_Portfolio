@@ -36,7 +36,7 @@ const Certificates = () => {
     {
       title: "Design Systems Expert",
       issuer: "Tech Academy",
-      date: "2022",
+      date: "2025",
       image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=400&h=300&fit=crop",
       link: "#"
     }

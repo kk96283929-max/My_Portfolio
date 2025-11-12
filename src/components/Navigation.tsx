@@ -99,10 +99,7 @@ const Navigation = () => {
                 asChild
                 className="w-full gap-2"
               >
-                <a href="https://drive.google.com/file/d/1blSReWTBKqoz4lZHAbCe9MXwMSiFDUYg/view?usp=sharing">
-                  <Download className="w-4 h-4" />
-                  Download Resume
-                </a>
+              
               </Button>
             </div>
           </div>

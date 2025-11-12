@@ -1,4 +1,4 @@
-import { Mail, Github, Linkedin, Twitter, Send, User, MessageSquare } from "lucide-react";
+import { Mail, Github, Linkedin, InstagramIcon, Send, User, MessageSquare, Instagram } from "lucide-react";
 import { Button } from "./ui/button";
 import { Card } from "./ui/card";
 import { Input } from "./ui/input";
@@ -16,9 +16,9 @@ const Contact = () => {
   const { toast } = useToast();
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/", label: "GitHub" },
-    { icon: Linkedin, href: "https://www.linkedin.com/feed/", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
+    { icon: Github, href: "https://github.com/kk96283929-max", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/kaif-khan-b37ab8396/", label: "LinkedIn" },
+    { icon: Instagram, href: "https://www.instagram.com/khan_official_oo?igsh=MXpuYnN5ODJubzZw", label: "Instagram" },
   ];
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -141,7 +141,7 @@ const Contact = () => {
                     <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
                       <Mail className="w-5 h-5 text-primary" />
                     </div>
-                    <span>your.email@example.com</span>
+                    <span>kk0521359@gmail.com</span>
                   </a>
                 </div>
               </Card>
