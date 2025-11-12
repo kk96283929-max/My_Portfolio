@@ -9,7 +9,7 @@ const Certificates = () => {
       issuer: " CODIN NINJAS ",
       date: "2025",
       image: "/hack hathon certificate_page-0001.jpg",
-      link: "#"
+      link: "https://drive.google.com/file/d/1zPS4fnWHutH0VBmPdgUwgk_hk7xcz6hV/view?usp=drive_link"
     },
     
      {
@@ -17,21 +17,21 @@ const Certificates = () => {
       issuer: "Itronic Solutions",
       date: "2025",
       image: "/ui ux.jpg",
-      link: "#"
+      link: "https://drive.google.com/file/d/1jsOBTAWFKxnP0ew5eWuw1n2dXlTQth6a/view?usp=sharing"
     },
     {
       title: "Machine Learning with Python",
       issuer: "Itronic Solutions",
       date: "2025",
       image: "/python certificate.jpg",
-      link: "#"
+      link: "https://drive.google.com/file/d/1L4tCy_gtJop1GfGpTUqcni4PZIFLwed6/view?usp=drive_link"
     },
     {
       title: "Data Base Management Expert",
       issuer: "Itronic Solutions",
       date: "2025",
       image: "/data base management system.jpg",
-      link: "#"
+      link: "https://drive.google.com/file/d/1AM4tYuSZ11ReX8NhZadaHlNgKYwQZYzF/view?usp=drive_link"
     },
     {
       title: "Design Systems Expert",

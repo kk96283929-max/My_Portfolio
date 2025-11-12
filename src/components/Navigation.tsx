@@ -62,7 +62,7 @@ const Navigation = () => {
               asChild
               className="gap-2"
             >
-              <a href="/resume.pdf" download>
+              <a href="https://drive.google.com/file/d/1blSReWTBKqoz4lZHAbCe9MXwMSiFDUYg/view?usp=sharing" download>
                 <Download className="w-4 h-4" />
                 Resume
               </a>
@@ -99,7 +99,7 @@ const Navigation = () => {
                 asChild
                 className="w-full gap-2"
               >
-                <a href="/MD_Tafsheen_CV (1).pdf" download>
+                <a href="https://drive.google.com/file/d/1blSReWTBKqoz4lZHAbCe9MXwMSiFDUYg/view?usp=sharing">
                   <Download className="w-4 h-4" />
                   Download Resume
                 </a>
