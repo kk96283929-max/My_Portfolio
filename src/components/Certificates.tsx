@@ -8,21 +8,15 @@ const Certificates = () => {
       title: " Hackathon ",
       issuer: " CODIN NINJAS ",
       date: "2025",
-      image: "/web.jpg",
+      image: "/hack hathon certificate_page-0001.jpg",
       link: "#"
     },
+    
      {
       title: "UI/UX Design Professional",
       issuer: "Itronic Solutions",
       date: "2025",
-      image: "/web.jpg",
-      link: "#"
-    },
-     {
-      title: "UI/UX Design Professional",
-      issuer: "Itronic Solutions",
-      date: "2025",
-      image: "/web.jpg",
+      image: "/ui ux.jpg",
       link: "#"
     },
     {
