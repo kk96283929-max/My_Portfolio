@@ -35,7 +35,7 @@ const About = () => {
                 <div className="absolute -inset-1 bg-gradient-to-r from-primary to-accent rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-300"></div>
                 <div className="relative">
                   <img 
-                    src="src\assets\mine.png" 
+                    src="/mine.png" 
                     alt="Profile" 
                     className="w-full rounded-lg shadow-xl"
                   />

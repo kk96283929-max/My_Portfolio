@@ -10,19 +10,40 @@ const Education = () => {
       description: "Specialized in Software Engineering and Artificial Intelligence. Graduated with honors.",
       achievements: [
         "GPA: ",
-        "Dean's List",
-        "Research in Machine Learning",
+
       ],
     },
     {
       degree: "Bachelor of Science ",
       institution: "DR. Ram Manohar Lohiya Awadh University",
       period: "2021 - 2024",
-      description: "Focus on web development, algorithms, and database systems.",
+      description: "Focus on Mathematics , Analytical Ability .",
       achievements: [
-        "GPA: 3.8/4.0",
+        "CGPA: 8.1/10.0",
         "Academic Excellence Award",
-        "President of Computer Science Club",
+        
+      ],
+    },
+    {
+      degree: "INTERMEDIATE ",
+      institution: "JR INTER COLLEGE JAMON AMETHI",
+      period: "2019 - 2020",
+      description: "Focus on Mathematics , BASIC KNOWLEDGE OF COMPUTER.",
+      achievements: [
+        "PERCENTAGE: 63%",
+        
+        
+      ],
+    },
+    {
+      degree: "Matriculation ",
+      institution: "JANTA INTER COLLEGE JAMON AMETHI",
+      period: "2018 - 2019",
+      description: "Focus on Mathematics , Analytical Ability, Reasoning .",
+      achievements: [
+        "PERCENTAGE: 81.6%",
+        "First Division",
+        
       ],
     },
   ];

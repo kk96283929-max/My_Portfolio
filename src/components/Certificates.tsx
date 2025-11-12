@@ -5,38 +5,38 @@ import { Button } from "./ui/button";
 const Certificates = () => {
   const certificates = [
     {
-      title: "UI/UX Design Professional",
-      issuer: "Itronic Solutions",
+      title: " Hackathon ",
+      issuer: " CODIN NINJAS ",
       date: "2025",
-      image: "src/assets/web.jpg",
+      image: "/web.jpg",
       link: "#"
     },
      {
       title: "UI/UX Design Professional",
       issuer: "Itronic Solutions",
       date: "2025",
-      image: "src/assets/web.jpg",
+      image: "/web.jpg",
       link: "#"
     },
      {
       title: "UI/UX Design Professional",
       issuer: "Itronic Solutions",
       date: "2025",
-      image: "src/assets/web.jpg",
+      image: "/web.jpg",
       link: "#"
     },
     {
       title: "Machine Learning with Python",
       issuer: "Itronic Solutions",
       date: "2025",
-      image: "src/assets/python certificate.jpg",
+      image: "/python certificate.jpg",
       link: "#"
     },
     {
       title: "Data Base Management Expert",
       issuer: "Itronic Solutions",
       date: "2025",
-      image: "src/assets/data base management system.jpg",
+      image: "/data base management system.jpg",
       link: "#"
     },
     {
